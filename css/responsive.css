@@ -1,0 +1,145 @@
+
+@media only screen and (min-width: 10px) and (max-width: 650px){
+
+    .logo{
+        width: 120px;
+        margin-top: 0%;
+        margin-bottom: -4%;
+    }
+
+    .titulo1{
+        font-size: 1.5rem;
+        margin-top: 5%;
+        padding: 5px 20px;
+        border-radius: 5px;
+    }
+
+    .paragrafo1{
+        font-size: 0.7rem;
+        border-radius: 5px;
+        padding: 5px 5px;
+        margin-top: 10px;
+        width: 70%;
+    }
+
+    .link{
+        display: flex;
+        align-items: center;
+        margin-top: 30%;
+    }
+
+    .img-link{
+        width: 230px;
+    }
+    
+    .img-link:hover{
+        transform: scale(1.1) rotate(360deg);
+    }
+
+    .paragrafo2{
+        font-size: 0.6rem;
+        border-radius: 5px;
+        padding: 5px 5px;
+        margin-top: 45%;
+        width: 70%;
+    }
+
+}
+
+@media only screen and (min-width: 651px) and (max-width: 1200px){
+
+    .logo{
+        width: 200px;
+        margin-top: 0%;
+        margin-bottom: -4%;
+    }
+
+    .titulo1{
+        font-size: 2.5rem;
+        margin-top: 5%;
+        padding: 5px 20px;
+        border-radius: 5px;
+    }
+
+    .paragrafo1{
+        font-size: 1.4rem;
+        border-radius: 5px;
+        padding: 5px 5px;
+        margin-top: 10px;
+        width: 70%;
+    }
+
+    .link{
+        display: flex;
+        align-items: center;
+        margin-top: 20%;
+    }
+
+    .img-link{
+        width: 500px;
+    }
+    
+    .img-link:hover{
+        transform: scale(1.1) rotate(360deg);
+    }
+
+    .paragrafo2{
+        font-size: 1rem;
+        border-radius: 5px;
+        padding: 5px 5px;
+        margin-top: 20%;
+        width: 42%;
+    }
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 2000px){
+
+    .sec1{
+        height: 100vh;
+    }
+
+    .logo{
+        width: 120px;
+        margin-top: 0%;
+        margin-bottom: -4%;
+    }
+
+    .titulo1{
+        font-size: 1.5rem;
+        margin-top: 5%;
+        padding: 5px 20px;
+        border-radius: 5px;
+    }
+
+    .paragrafo1{
+        font-size: 1rem;
+        border-radius: 5px;
+        padding: 5px 5px;
+        margin-top: 10px;
+        width: 45%;
+    }
+
+    .link{
+        display: flex;
+        align-items: center;
+        margin-top: 5%;
+    }
+
+    .img-link{
+        width: 200px;
+    }
+    
+    .img-link:hover{
+        transform: scale(1.1) rotate(360deg);
+    }
+
+    .paragrafo2{
+        font-size: 1rem;
+        border-radius: 5px;
+        padding: 5px 5px;
+        margin-top: 8%;
+        width: 35%;
+    }
+
+}
